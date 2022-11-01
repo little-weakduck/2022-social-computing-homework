@@ -1,0 +1,13 @@
+方便	pos
+快捷	pos
+好评	pos
+好吃	pos
+赞	pos
+不错	pos
+负责	pos
+难吃	neg
+差劲	neg
+怪味	neg
+垃圾	neg
+无语	neg
+异味	neg
